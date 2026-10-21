@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/electric-drivetrain-bidirectional-power-flow-explainer/
 
+Repository: https://github.com/mizcausevic-dev/electric-drivetrain-bidirectional-power-flow-explainer
+
 ## What this is
 
 An interactive anatomy plate for Electric Drivetrain Bidirectional Power Flow. Play, scrub, or jump the five stages. The same frame always draws the same picture.
